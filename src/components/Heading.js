@@ -3,7 +3,7 @@ import React from "react";
 function Heading(){
     return(
         <div className="heading">
-            Amar Bagh
+            Amar Bagh(Public Speaking Coach)
         </div>
     )
 }

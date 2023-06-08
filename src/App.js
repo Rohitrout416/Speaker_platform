@@ -12,7 +12,7 @@ function App() {
           <Tab className="tab">About</Tab>
           <Tab className="tab">Courses</Tab>
           <Tab className="tab">Galleries</Tab>
-          <Tab className="tab">Testimonies</Tab>
+          <Tab className="tab">Testimonials</Tab>
           <Tab className="tab">Contact</Tab>
         </TabList>
         <TabPanels className="tab-panels">
